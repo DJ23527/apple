@@ -1,0 +1,183 @@
+body{
+
+background-color:#FBFBFD ;
+
+}
+
+.navbar{
+width: 100%;
+height: 44px;
+background-color: black;
+color: white;
+}
+
+.anuncio{
+
+width: 100%;    
+height: 44px;
+background-color:#F5F5F7 ;
+text-align:center;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size: 17px;
+font-family: "SF Pro Text","SF Pro Icons"
+,"Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+a{
+
+text-decoration:none;
+
+}
+
+
+
+
+
+
+.bag{
+
+width: 50px;
+height: 50px;
+}
+
+.conteudo1{
+
+width: 100%;    
+height: 696px;
+background-image: url(./img/iphone12.jpg);
+background-position-x:center;
+text-align: center;
+
+
+}
+
+.conteudo2{
+
+width: 100%; 
+height: 736px;
+background-image: url(./img/hero\ ipad.jpg);
+background-position-x:center;
+color: white;
+text-align: center;
+
+}
+
+.conteudo3{
+
+width: 100%;    
+height: 736px;
+background-image: url(./img/hero\ imac.jpg);
+background-position-x:center;
+text-align: center;
+}
+
+.conteudo4{
+
+width: 100%;
+height: 624px;
+
+}
+
+
+.item1{
+
+width: 50%;
+height: 624px;    
+background-image: url(./img/iphone\ 12\ pro.jpg) ;
+background-position-x:center;
+color: white;
+text-align: center;
+}
+
+.item2{
+
+width: 50%;
+height: 624px;
+background-image: url(./img/promo\ pride.jpg);
+background-position-x:center;
+text-align: center;
+}
+
+.conteudo5{
+
+width: 100%;
+height: 624px;
+
+}
+
+.item3{
+
+width: 50%;
+height: 624px;
+background-image: url(./img/promo\ airtag.jpg);
+background-position-x:center;
+text-align: center;
+
+}
+
+.item4{
+
+width: 50%;
+height: 624px;
+background-image: url(./img/promo\ arcade.jpg);
+background-position-x:center;
+text-align: center;
+
+}
+
+.conteudo6{
+
+width: 100%;
+height: 624px;
+
+}
+
+.item5{
+
+width: 50%;
+height: 624px;
+background-image: url(./img/tile.jpg);
+background-position-x:center;
+background-position-y:bottom ;
+background-repeat: no-repeat;
+text-align: center;
+
+}
+
+.item6{
+
+width: 50%;
+height: 624px;
+background-image: url(./img/tile\ greyhound.jpg) ;
+background-position-x:center;
+background-repeat: no-repeat;
+color: white;
+text-align: center;
+
+}
+
+.footer1{
+
+width: 100%;
+height: 153.78px;
+background-color: grey;
+
+}
+
+.footer2{
+
+width: 100%;
+height: 373.53px;
+background-color: indigo;
+
+}
+
+.footer3{
+
+width: 100%;
+height: 166px;
+background-color: khaki;
+
+}
